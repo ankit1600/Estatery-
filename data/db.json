@@ -52,7 +52,7 @@
       "id": 5,
       "name": "Mark",
       "price": "$3,300",
-      "address": "5543 Woodland Palm ,Michigan City",
+      "address": "5543 Woodland Palm ,Michigan",
       "info": {
         "id": 5,
         "beds": "3",
@@ -100,7 +100,7 @@
       "id": 9,
       "name": "Jarry",
       "price": "$3,786",
-      "address": "2879 Hollywood, Cartoon City ",
+      "address": "2879 Hollywood, Cartoon ",
       "info": {
         "id": 9,
         "beds": "5",
@@ -112,12 +112,36 @@
       "id": 10,
       "name": "Tom",
       "price": "$7,786",
-      "address": "2879 Hollywood OutSide, Cartoon City ",
+      "address": "2879 Hollywood OutSide,Cartoon",
       "info": {
         "id": 10,
         "beds": "3",
         "bathroom": "6",
         "area": "5*5"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Navya",
+      "price": "$5,706",
+      "address": "1111  kochi , New City ",
+      "info": {
+        "id": 11,
+        "beds": "3",
+        "bathroom": "3",
+        "area": "3*6"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Ross",
+      "price": "$8,345",
+      "address": "3425 HiddenLeaf,Old Village ",
+      "info": {
+        "id": 12,
+        "beds": "4",
+        "bathroom": "2",
+        "area": "5*1"
       }
     }
   ]

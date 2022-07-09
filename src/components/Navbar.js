@@ -5,7 +5,9 @@ function Navbar() {
   return (
     <div className=" flex justify-between  bg-white">
       <div className="flex items-center ">
-        <div className="flex items-center m-2 text-black  ">Estatery</div>
+        <div className="flex items-center m-2 text-indigo-700 text-xl  ">
+          Estatery
+        </div>
         <div className="m-2 px-5 py-1 hover:text-indigo-600 hover:bg-indigo-200 hover:rounded-sm hover:cursor-pointer">
           Rent
         </div>
