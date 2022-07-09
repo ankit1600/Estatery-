@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Bruce",
+      "price": "$2,500",
+      "address": "2626 Green Valley ,Highland Lake",
+      "info": {
+        "id": 1,
+        "beds": "3",
+        "bathroom": "2",
+        "area": "5*7"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Clark",
+      "price": "$2,700",
+      "address": "2345 Pichola ,Highland Lake",
+      "info": {
+        "id": 2,
+        "beds": "2",
+        "bathroom": "2",
+        "area": "4*7"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Diana",
+      "price": "$1,700",
+      "address": "1145 Lake Sevilla ,Palm Harbom",
+      "info": {
+        "id": 3,
+        "beds": "1",
+        "bathroom": "1",
+        "area": "4*7"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Subin",
+      "price": "$6,900",
+      "address": "6969 Woodland ,Michigan",
+      "info": {
+        "id": 4,
+        "beds": "5",
+        "bathroom": "4",
+        "area": "6*9"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Mark",
+      "price": "$3,300",
+      "address": "5543 Woodland Palm ,Michigan City",
+      "info": {
+        "id": 5,
+        "beds": "3",
+        "bathroom": "2",
+        "area": "4*8"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Tonny",
+      "price": "$3,000",
+      "address": "3343 Valley Road ,Main City",
+      "info": {
+        "id": 6,
+        "beds": "4",
+        "bathroom": "3",
+        "area": "5*5"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Thor",
+      "price": "$4,000",
+      "address": "2245 Asgard,NewYork City ",
+      "info": {
+        "id": 7,
+        "beds": "6",
+        "bathroom": "2",
+        "area": "5*7"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Banner",
+      "price": "$2,999",
+      "address": "2879 Marvel World, Honk Kong ",
+      "info": {
+        "id": 8,
+        "beds": "3",
+        "bathroom": "2",
+        "area": "7*7"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Jarry",
+      "price": "$3,786",
+      "address": "2879 Hollywood, Cartoon City ",
+      "info": {
+        "id": 9,
+        "beds": "5",
+        "bathroom": "3",
+        "area": "4*9"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Tom",
+      "price": "$7,786",
+      "address": "2879 Hollywood OutSide, Cartoon City ",
+      "info": {
+        "id": 10,
+        "beds": "3",
+        "bathroom": "6",
+        "area": "5*5"
+      }
+    }
+  ]
+}

@@ -2,7 +2,7 @@ import React from "react";
 
 function Filter() {
   return (
-    <div className="grid  grid-cols-5  bg-white m-4 items-center ">
+    <div className="grid  grid-cols-5  bg-white m-4 items-center  rounded-md">
       <div className="grid border-r-2 m-4">Location</div>
       <div className="grid border-r-2 m-4">When</div>
       <div className="grid border-r-2 m-4">Price</div>

@@ -11,7 +11,7 @@ function App() {
       <div className="bg-gray-200 h-full justify-center px-48 py-10">
         <div className=" flex justify-between">
           <h1 className="text-3xl font-bold">Search properties to rent</h1>
-          <div className="border-2 items-center flex p-1 border-indigo-400">
+          <div className="border-2 items-center flex p-1 border-indigo-400 rounded-md">
             Search with search Bar <IoIosArrowDown className="m-2" />
           </div>
         </div>
