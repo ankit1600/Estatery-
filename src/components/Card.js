@@ -14,7 +14,7 @@ function Card({ name, price, address, beds, bathroom, area }) {
       </div>
 
       <div className="flex justify-between m-4 ">
-        <span>{price}/month</span>
+        <span>${price}/month</span>
         <AiOutlineHeart />
       </div>
       <span className="font-bold flex m-4 text-lg ">{name}</span>
