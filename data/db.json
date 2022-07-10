@@ -5,11 +5,14 @@
       "name": "Bruce",
       "price": "$2,500",
       "address": "2626 Green Valley ,Highland Lake",
-      "info": {
-        "id": 1,
-        "beds": "3",
-        "bathroom": "2",
-        "area": "5*7"
+      "beds": "3",
+      "bathroom": "2",
+      "area": "5*7",
+      "propertyType": "house",
+      "occupiedTill": {
+        "year": "2022",
+        "month": "8",
+        "day": "25"
       }
     },
     {
@@ -17,11 +20,14 @@
       "name": "Clark",
       "price": "$2,700",
       "address": "2345 Pichola ,Highland Lake",
-      "info": {
-        "id": 2,
-        "beds": "2",
-        "bathroom": "2",
-        "area": "4*7"
+      "beds": "2",
+      "bathroom": "2",
+      "area": "4*7",
+      "propertyType": "house",
+      "occupiedTill": {
+        "year": "2022",
+        "month": "8",
+        "day": "25"
       }
     },
     {
@@ -29,11 +35,14 @@
       "name": "Diana",
       "price": "$1,700",
       "address": "1145 Lake Sevilla ,Palm Harbom",
-      "info": {
-        "id": 3,
-        "beds": "1",
-        "bathroom": "1",
-        "area": "4*7"
+      "beds": "1",
+      "bathroom": "1",
+      "area": "4*7",
+      "propertyType": "house",
+      "occupiedTill": {
+        "year": "2022",
+        "month": "8",
+        "day": "25"
       }
     },
     {
@@ -41,11 +50,14 @@
       "name": "Subin",
       "price": "$6,900",
       "address": "6969 Woodland ,Michigan",
-      "info": {
-        "id": 4,
-        "beds": "5",
-        "bathroom": "4",
-        "area": "6*9"
+      "beds": "5",
+      "bathroom": "4",
+      "area": "6*9",
+      "propertyType": "villa",
+      "occupiedTill": {
+        "year": "2022",
+        "month": "9",
+        "day": "16"
       }
     },
     {
@@ -53,11 +65,14 @@
       "name": "Mark",
       "price": "$3,300",
       "address": "5543 Woodland Palm ,Michigan",
-      "info": {
-        "id": 5,
-        "beds": "3",
-        "bathroom": "2",
-        "area": "4*8"
+      "beds": "3",
+      "bathroom": "2",
+      "area": "4*8",
+      "propertyType": "villa",
+      "occupiedTill": {
+        "year": "2022",
+        "month": "9",
+        "day": "16"
       }
     },
     {
@@ -65,11 +80,14 @@
       "name": "Tonny",
       "price": "$3,000",
       "address": "3343 Valley Road ,Main City",
-      "info": {
-        "id": 6,
-        "beds": "4",
-        "bathroom": "3",
-        "area": "5*5"
+      "beds": "4",
+      "bathroom": "3",
+      "area": "5*5",
+      "propertyType": "villa",
+      "occupiedTill": {
+        "year": "2022",
+        "month": "9",
+        "day": "16"
       }
     },
     {
@@ -77,11 +95,14 @@
       "name": "Thor",
       "price": "$4,000",
       "address": "2245 Asgard,NewYork City ",
-      "info": {
-        "id": 7,
-        "beds": "6",
-        "bathroom": "2",
-        "area": "5*7"
+      "beds": "6",
+      "bathroom": "2",
+      "area": "5*7",
+      "propertyType": "apartment",
+      "occupiedTill": {
+        "year": "2022",
+        "month": "10",
+        "day": "10"
       }
     },
     {
@@ -89,11 +110,14 @@
       "name": "Banner",
       "price": "$2,999",
       "address": "2879 Marvel World, Honk Kong ",
-      "info": {
-        "id": 8,
-        "beds": "3",
-        "bathroom": "2",
-        "area": "7*7"
+      "beds": "3",
+      "bathroom": "2",
+      "area": "7*7",
+      "propertyType": "apartment",
+      "occupiedTill": {
+        "year": "2022",
+        "month": "10",
+        "day": "10"
       }
     },
     {
@@ -101,11 +125,14 @@
       "name": "Jarry",
       "price": "$3,786",
       "address": "2879 Hollywood, Cartoon ",
-      "info": {
-        "id": 9,
-        "beds": "5",
-        "bathroom": "3",
-        "area": "4*9"
+      "beds": "5",
+      "bathroom": "3",
+      "area": "4*9",
+      "propertyType": "apartment",
+      "occupiedTill": {
+        "year": "2022",
+        "month": "10",
+        "day": "10"
       }
     },
     {
@@ -113,11 +140,14 @@
       "name": "Tom",
       "price": "$7,786",
       "address": "2879 Hollywood OutSide,Cartoon",
-      "info": {
-        "id": 10,
-        "beds": "3",
-        "bathroom": "6",
-        "area": "5*5"
+      "beds": "3",
+      "bathroom": "6",
+      "area": "5*5",
+      "propertyType": "apartment",
+      "occupiedTill": {
+        "year": "2022",
+        "month": "11",
+        "day": "20"
       }
     },
     {
@@ -125,11 +155,14 @@
       "name": "Navya",
       "price": "$5,706",
       "address": "1111  kochi , New City ",
-      "info": {
-        "id": 11,
-        "beds": "3",
-        "bathroom": "3",
-        "area": "3*6"
+      "beds": "3",
+      "bathroom": "3",
+      "area": "3*6",
+      "propertyType": "villa",
+      "occupiedTill": {
+        "year": "2022",
+        "month": "11",
+        "day": "20"
       }
     },
     {
@@ -137,11 +170,14 @@
       "name": "Ross",
       "price": "$8,345",
       "address": "3425 HiddenLeaf,Old Village ",
-      "info": {
-        "id": 12,
-        "beds": "4",
-        "bathroom": "2",
-        "area": "5*1"
+      "beds": "4",
+      "bathroom": "2",
+      "area": "5*1",
+      "propertyType": "house",
+      "occupiedTill": {
+        "year": "2022",
+        "month": "11",
+        "day": "20"
       }
     }
   ]

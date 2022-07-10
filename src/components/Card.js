@@ -13,11 +13,11 @@ function Card({ name, price, address, beds, bathroom, area }) {
         </div>
       </div>
 
-      <div className="flex justify-between m-4">
+      <div className="flex justify-between m-4 ">
         <span>{price}/month</span>
         <AiOutlineHeart />
       </div>
-      <span className="font-bold flex m-4">{name}</span>
+      <span className="font-bold flex m-4 text-lg ">{name}</span>
       <span className="m-4">{address}</span>
       <hr />
       <div className="flex justify-between mb-4 px-1 ">

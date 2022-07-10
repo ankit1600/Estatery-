@@ -3,7 +3,7 @@ import { IoIosArrowDown } from "react-icons/io";
 
 function Navbar() {
   return (
-    <div className=" flex justify-between  bg-white">
+    <div className=" md:flex justify-between  bg-white sticky top-0 z-10 hidden ">
       <div className="flex items-center ">
         <div className="flex items-center m-2 text-indigo-700 text-xl  ">
           Estatery
