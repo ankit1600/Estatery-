@@ -45,7 +45,7 @@ function App() {
     try {
       const fetchData = async () => {
         const res = await axios({
-          url: "http://localhost:4000/data",
+          url: "https://estatery-json.herokuapp.com/data",
           method: "get",
           headers: {
             "Content-Type": "application/json",
