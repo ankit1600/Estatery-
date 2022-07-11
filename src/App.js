@@ -61,14 +61,16 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className="bg-gray-200 min-h-screen  justify-center px-48 py-10 ">
+      <div className="bg-gray-200 min-h-screen justify-center mb-3 md:w-full p-16 md:px-48 pt-6">
         <div className=" flex justify-between">
-          <h1 className="text-3xl font-bold">Search properties to rent</h1>
+          <h1 className=" text-xl md:text-3xl font-bold">
+            Search properties to rent
+          </h1>
           <div className=" items-center flex p-1 ">
             <input
               type="text"
               placeholder="Search with search Bar"
-              className="border-2 border-indigo-400 rounded-md focus:outline-none"
+              className="border-2 border-indigo-400 rounded-md focus:outline-none w-24 md:w-48 "
               onChange={(e) => {
                 setSearch(e.target.value);
               }}

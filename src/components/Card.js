@@ -5,7 +5,7 @@ import { BiBath, BiBed, BiArea } from "react-icons/bi";
 
 function Card({ name, price, address, beds, bathroom, area }) {
   return (
-    <div className="relative overflow-hidden bg-white h-full w-72 rounded-lg ">
+    <div className="relative overflow-hidden bg-white h-full w-72 rounded-lg -mx-10 md:-m-2  ">
       <img src={house} alt="house" className="w-72 h-52  rounded-t-lg" />
       <div className="absolute left-0 top-0 h-16 w-16">
         <div className="absolute transform -rotate-45  bg-indigo-600 text-center text-white font-semibold py-1 left-[-38px] top-[28px] w-[170px]">
