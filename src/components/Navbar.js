@@ -3,7 +3,7 @@ import { IoIosArrowDown } from "react-icons/io";
 
 function Navbar() {
   return (
-    <div className=" md:flex grid grid-cols-2 justify-between  bg-white sticky top-0 z-10  ">
+    <div className=" md:flex grid grid-cols-2  justify-between  bg-white md:sticky top-0 z-10  ">
       <div className="md:flex items-center grid  ">
         <div className="flex items-center m-2 text-indigo-700 text-xl   ">
           Estatery

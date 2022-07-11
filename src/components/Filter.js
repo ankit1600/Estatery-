@@ -20,10 +20,11 @@ function Filter({
         value={location}
       />
       <hr className=" md:hidden" />
+      <span className=" md:hidden text-gray-400 px-4">When</span>
       <input
         type="date"
         placeholder="When"
-        className="grid border-r-2 m-4  w-12 md:w-36"
+        className="grid border-r-2 m-4  w-12 md:w-36 bg-transparent"
         onChange={(e) => setDate(e.target.value)}
         value={date}
       />
