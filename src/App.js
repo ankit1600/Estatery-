@@ -61,7 +61,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className="bg-gray-200 min-h-screen justify-center mb-3 md:w-full p-16 md:px-48 pt-6">
+      <div className="bg-gray-200 min-h-screen justify-center mb-3 md:w-full p-20 md:px-48 pt-6">
         <div className=" flex justify-between">
           <h1 className=" text-xl md:text-3xl font-bold">
             Search properties to rent

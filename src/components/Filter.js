@@ -10,7 +10,7 @@ function Filter({
   setDate,
 }) {
   return (
-    <div className="grid  grid-row-5 bg-white w-60 justify-center rounded-md  md:w-max md:grid  md:grid-cols-5 md:h-20 md:items-center ">
+    <div className="grid  grid-row-5 bg-white  w-60 justify-center rounded-md  md:w-max md:grid  md:grid-cols-5 md:h-20 md:items-center ">
       <input
         placeholder="Location"
         className="grid  w-40   md:border-r-2 m-4"
@@ -19,6 +19,7 @@ function Filter({
         }}
         value={location}
       />
+      <hr className=" md:hidden" />
       <input
         type="date"
         placeholder="When"
@@ -26,8 +27,9 @@ function Filter({
         onChange={(e) => setDate(e.target.value)}
         value={date}
       />
+      <hr className=" md:hidden" />
 
-      <form className="grid border-r-2 m-2 ">
+      <form className="grid md:border-r-2 m-2 ">
         <label htmlFor="type" className="text-gray-400">
           Price:
         </label>
@@ -45,7 +47,8 @@ function Filter({
           <option value=">3,500">&gt;$3,500</option>
         </select>
       </form>
-      <form className="grid border-r-2 m-4 ">
+      <hr className=" md:hidden" />
+      <form className="grid md:border-r-2 m-4 ">
         <label htmlFor="type" className="text-gray-400">
           Type:
         </label>
@@ -64,6 +67,7 @@ function Filter({
           <option value="apartment">Apartment</option>
         </select>
       </form>
+      <hr className=" md:hidden" />
       <button className="m-2 px-5 w-24 text-white bg-indigo-500 rounded-md hover:cursor-pointer ">
         Search
       </button>
